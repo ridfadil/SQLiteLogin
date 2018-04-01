@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/aee8f46af5811aa43160040c220b036605e18add/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_3daf2c163e1e1fd955a6c4a36b2712d85dc7cc69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/24faa889042838a5b0771e0e79fbd76153445c72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_9a89d045bca46a9c76e7a49cbf4b991469f27a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/86e1f42dacce56d56b850cfaec3e82c3c63f3159/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_7895da2f491fefb6e9e6c8901cd6b02aab52dbf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/28d4b6a3bf83b609c203c8eae3394ba5da755814/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_d9155ff3d6bc7b2d0c1ed3f8ce8e3edf57094ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/364241268fe15135c3b401a885c962313b899426/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_adda412d0cd8704bf011f9c2865943b0bf7e5d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/f33a71b87460b57f634a34abecc216c190d21045/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_56ae9199e992acbd63c1bbd78ecdfa21ba1dc5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_7aa99b1d13c56c8097030b9fa7102afeb1c22d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/ffa960ddbf23d07622df910f0c0c43336c9d92cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_ba33782984765ba2f0babb00a33b52bd2ad89c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/3fc78e3ef5f50a7dc7df1ee00ffb357a78b9991a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_61bec6f46dcb8ea252a4b744ed81c1f707ec8a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.android/build-cache/7b37313ccd8b170633db8435f629c859a5522f4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/fadil/Documents/SQLiteLogin-AndroidJSon.com_/SQLiteLogin-AndroidJSon.com/app/build/intermediates/pre-dexed/debug/classes_188fa673c6a37d3b82d4b95baced6c323fe10fb1.jar" />
+    </item>
+
+</items>
